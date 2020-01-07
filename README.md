@@ -57,6 +57,8 @@ npm test
 
 My Twitter – [@pernahgondring_](https://twitter.com/pernahgondring_)
 
+My Instagram – [@pernahgondring](https://instagram.com/pernahgondring)
+
 My Email - memerlambang@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
